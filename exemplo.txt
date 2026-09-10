@@ -1,1 +1,3 @@
 Arquivo de exeplo
+
+feito ateracoes apos o clone
